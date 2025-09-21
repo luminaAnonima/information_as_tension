@@ -268,3 +268,228 @@ The progression from "why does a magic trick deck feel different from a random d
 This framework bridges intuitive understanding with mathematical precision, offering testable predictions across philosophy, neuroscience, and complex systems theory. The next step is empirical validation through the experimental protocols outlined above.
 
 ---
+
+# Order–Disorder–Life: Information as Tension
+
+## 1. Core Idea
+
+If information is the **tension between order and disorder**, then:
+
+- **Objects and elements** are order — structured, persistent, low entropy.
+- **Void** is disorder — unstructured, chaotic, high entropy.
+- **Life** is the sweet spot of information — dynamic balance between order and disorder.
+
+Life is therefore **the embodied persistence of informational tension**.  
+It maintains enough order to persist, and enough disorder to adapt.
+
+---
+
+## 2. Triad Model
+
+### Variables
+- \(O \in [0,1]\): normalized **order** (coherence, stability).
+- \(D \in [0,1]\): normalized **disorder** (diversity, variability).
+- \(x = S/S_{\max} \in [0,1]\): normalized entropy (single-axis version).
+
+Constraint (optional):  
+\[
+O + D \le 1
+\]
+
+### Life as Informational Tension
+
+**Single axis form:**
+
+\[
+L(x) = k \, x (1-x)
+\]
+
+**Dual axis form:**
+
+\[
+L(O,D) = k \, O \, D
+\]
+
+- \(L=0\) when either order or disorder collapses.
+- \(L\) is maximized when \(O \approx D\).
+
+---
+
+## 3. Weighted and Shaped Versions
+
+General form:
+
+\[
+L_{\alpha,\beta}(O,D) = k \, O^{\alpha} D^{\beta}
+\]
+
+- \(\alpha > \beta\): more weight on order.
+- \(\beta > \alpha\): more weight on disorder.
+
+Optimum point:
+
+\[
+O^* = \frac{\alpha}{\alpha+\beta}, \quad D^* = \frac{\beta}{\alpha+\beta}
+\]
+
+---
+
+## 4. Temporal Extension
+
+Let entropy rate = \(h_\mu\), maximum = \(h_{\max}\).  
+Normalize: \(x = h_\mu / h_{\max}\).
+
+\[
+L_{\text{temp}} = k \, x (1-x)
+\]
+
+With predictive information:
+
+\[
+L_{\text{temp}} = k \, \tilde{E} \, x (1-x)
+\]
+
+where \(\tilde{E} = I(\text{past}; \text{future}) / H(\text{future})\).
+
+**Dual temporal handles:**
+
+\[
+L_{\text{temp}} = k \, C_t \, D_t
+\]
+
+- \(C_t\): temporal order (predictability, integration).  
+- \(D_t\): temporal diversity (complexity, entropy).
+
+---
+
+## 5. Causal Learning Capacity
+
+Extend with information flow:
+
+\[
+L_{\text{learn}} = k \, 
+\underbrace{\tfrac{\text{AIS}}{\text{AIS}_{\max}}}_{\text{stable self-model}} \,
+\underbrace{\tfrac{\text{TE}_{Y\to X}}{\text{TE}_{\max}}}_{\text{informative input}} \,
+\underbrace{x(1-x)}_{\text{optimal regime}}
+\]
+
+- **AIS** = Active Information Storage.  
+- **TE** = Transfer Entropy (from environment Y to system X).
+
+---
+
+## 6. Viability and Collapse
+
+- **Crystal death**: \(D \to 0\), \(L \to 0\).  
+- **Heat death**: \(O \to 0\), \(L \to 0\).  
+
+**Viability region:**  
+\[
+\mathcal{V} = \{ (O,D) : L(O,D) \ge L_{\min} \}
+\]
+
+---
+
+## 7. Dynamics and Regulation
+
+Gradient-like regulation:
+
+\[
+\dot O = \eta_O \frac{\partial L}{\partial O} - \lambda_O O, \quad
+\dot D = \eta_D \frac{\partial L}{\partial D} - \lambda_D D
+\]
+
+For \(L = kOD\):
+
+\[
+\dot O = \eta_O k D - \lambda_O O, \quad
+\dot D = \eta_D k O - \lambda_D D
+\]
+
+Soft constraint for \(O+D \le 1\):
+
+\[
+\dot O \leftarrow \dot O - \gamma \max(0,O+D-1), \quad
+\dot D \leftarrow \dot D - \gamma \max(0,O+D-1)
+\]
+
+---
+
+## 8. Multiscale Life
+
+Life spans scales. Compute \(L_s\) at each scale \(s\) and combine:
+
+\[
+L_{\text{multi}} = \sum_s w_s L_s, \quad \sum_s w_s = 1
+\]
+
+---
+
+## 9. Measurement Recipes
+
+**Order (O):** coherence, integration, redundancy.  
+Examples: phase locking, graph efficiency, syntactic reuse, metabolic stability.
+
+**Disorder (D):** entropy, diversity, novelty.  
+Examples: spectral entropy, Lempel-Ziv complexity, type-token ratio, phenotype variance.
+
+Normalize to [0,1], then compute \(L = kOD\).
+
+---
+
+## 10. Examples
+
+- **Cellular life:** \(O\) = metabolic stability, \(D\) = flux variability.  
+- **Ecosystem:** \(O\) = trophic coherence, \(D\) = species diversity.  
+- **AI system:** \(O\) = representation consistency, \(D\) = activation diversity.
+
+---
+
+## 11. Thermodynamic Tie-In
+
+With entropy \(S\) and negentropy \(J = S_{\max} - S\):
+
+\[
+L \propto \frac{S}{S_{\max}} \cdot \frac{J}{S_{\max}}
+\]
+
+Life intensity ∝ product of entropy and negentropy.  
+Both must be nonzero.
+
+---
+
+## 12. Agent Decision Rule
+
+Permit actions only when system remains viable:
+
+\[
+\text{Act if } L \ge L_{\min} \text{ and } \Delta L_{\text{env}} \ge -\epsilon
+\]
+
+---
+
+## 13. Test Systems
+
+- **Logistic map, AR(1):** \(L_{\text{temp}}\) peaks at intermediate parameters.  
+- **EEG insight tasks:** \(L = CD\) rises before insight reports.  
+- **Reservoir computers:** maximizing \(L\) reduces energy per task accuracy.
+
+---
+
+## 14. Summary
+
+- **Order** = structured matter.  
+- **Disorder** = void, chaos, entropy.  
+- **Life** = maximized informational tension.  
+
+Core formulas:  
+
+\[
+L(x) = kx(1-x), \quad
+L(O,D) = kOD, \quad
+L_{\text{temp}} = k \tilde{E} x(1-x), \quad
+L_{\text{learn}} = k \,\text{AIS}\,\text{TE}\,x(1-x)
+\]
+
+Life is the **sweet spot** where order and disorder are balanced,  
+information is richest, and adaptation is possible.
