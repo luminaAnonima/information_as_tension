@@ -493,3 +493,139 @@ L_{\text{learn}} = k \,\text{AIS}\,\text{TE}\,x(1-x)
 
 Life is the **sweet spot** where order and disorder are balanced,  
 information is richest, and adaptation is possible.
+
+---
+
+
+# Order–Disorder–Life: Half-Life Extension
+
+## 1. Core Insight
+What if "life" is not a categorical distinction, but a **timescale effect**?  
+Everything has a half-life:
+- Atoms decay.
+- Stars burn out.
+- Mountains erode.
+- Galaxies dissolve.
+
+What we call *life* may simply be those informational tensions whose **half-lives are short enough** that their rhythms are visible to us.  
+Rocks and stars may be alive too — just in slow motion.
+
+---
+
+## 2. Base Model (Recap)
+From the **information as tension** framework:
+
+- **Order (O):** coherence, stability, low entropy.
+- **Disorder (D):** diversity, variability, high entropy.
+- **Life (L):** informational tension = balance between O and D.
+
+**Static form:**
+\[
+L(O,D) = k \, O \, D
+\]
+
+**Entropy axis form:**
+\[
+L(x) = k \, x (1-x), \quad x = \frac{S}{S_{\max}}
+\]
+
+---
+
+## 3. Adding Time: Half-Life
+Define:
+- \(\tau\) = half-life (time for tension to decay by 50%)
+- \(\lambda = \ln(2) / \tau\) = decay constant
+
+A living system’s *informational tension* should include both **balance** and **persistence**:
+
+\[
+L_{\text{time}}(O,D,\tau) = k \, O \, D \, f(\tau)
+\]
+
+Where \(f(\tau)\) is a weighting function capturing persistence across time.
+
+---
+
+## 4. Candidate Weighting Functions
+
+### A. Logarithmic scaling
+\[
+f(\tau) = \log(1 + \tau/\tau_0)
+\]
+- Normalizes very fast processes
+- Rewards longer persistence without blowing up
+
+### B. Saturating scaling
+\[
+f(\tau) = \frac{\tau}{\tau + \tau_0}
+\]
+- Bounded between 0 and 1
+- Emphasizes the viability of mid-range half-lives
+
+### C. Inverse decay
+\[
+f(\tau) = e^{-\lambda \, t_{\text{obs}}}
+\]
+- Probability system still holds tension at observation timescale \(t_{\text{obs}}\)
+- Directly ties life-detection to the observer’s frame
+
+---
+
+## 5. Interpretation
+
+- **Fast half-lives (seconds to years):** biological life — vivid tension dynamics.
+- **Medium half-lives (centuries to millennia):** ecosystems, forests, glaciers — life in slow motion.
+- **Long half-lives (millions to billions of years):** mountains, planets, stars — cosmic organisms, mostly invisible as life to us.
+- **Extreme half-lives:** galaxies, proton decay — universal-scale persistence.
+
+Thus, *life* is not a binary distinction but a **continuum of tension persistence**.
+
+---
+
+## 6. Unified Formula
+
+Generalized life intensity:
+
+\[
+L_{\text{unified}} = k \, O^{\alpha} D^{\beta} \, f(\tau)
+\]
+
+- \(O\): order (coherence, stability)
+- \(D\): disorder (diversity, variability)
+- \(\alpha,\beta\): weights (domain-dependent)
+- \(\tau\): half-life
+- \(f(\tau)\): time-weighting function (logarithmic, saturating, or observer-based)
+
+---
+
+## 7. Philosophical Consequence
+
+- **Scientific:** Life is not a separate substance but a *timescale-relative manifestation* of informational tension.  
+- **Philosophical:** The universe itself is alive, just on vastly different clocks.  
+- **Orthodox resonance:** All creation participates in life through the Logos. What we call “living beings” are simply the modes of creation whose cycles are quick enough for our perception.  
+
+---
+
+## 8. Practical Implications
+
+- **Astrobiology:** Look for life where order–disorder tension is strong *and* half-lives are suited to observation (not too fast, not too slow).  
+- **Ecology:** Long-lived systems (forests, reefs) are life-forms in their own right, not just collections of smaller organisms.  
+- **AI & Computing:** Systems with too-short half-lives (volatile noise) or too-long (rigid stasis) won’t adapt. Viable AI should sustain mid-range informational half-lives.  
+
+---
+
+## 9. Summary
+
+Life = **informational tension with persistence in time**.
+
+- Objects/elements = order
+- Void = disorder
+- Life = balance, **scaled by half-life**
+
+**Core unified formula:**
+\[
+L_{\text{unified}} = k \, O^{\alpha} D^{\beta} \, f(\tau)
+\]
+
+Life is not a binary property, but a **spectrum of tensions unfolding at different half-lives**.  
+What we call “life” are simply those tensions that breathe quickly enough for us to witness.
