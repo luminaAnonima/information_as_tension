@@ -631,32 +631,61 @@ Where:
 
 ---
 
-## 8. Philosophical Consequence
+## 8. Death as Tension Collapse or Timescale Shift
 
-- **Scientific:** Life and consciousness are not separate substances, but *timescale-relative manifestations* of informational tension.  
-- **Philosophical:** The universe itself is alive and aware, just on different clocks.  
-- **Orthodox resonance:** All creation participates in life and awareness through the Logos. What we call “conscious beings” are simply those tuned to fast cycles of informational persistence.  
+### Biological view
+- Death occurs when the organism can no longer hold the balance of order and disorder.
+- Tension collapses: order rigidifies (decay) or disorder overwhelms (dissolution).
+- Mathematically: \(L \to 0\).
+
+### Timescale view
+- Death is not annihilation but **migration of tension into slower half-life domains**.
+- Cells die, but molecules persist.
+- Molecules decay, but atoms remain.
+- Atoms dissolve, but subatomic fields persist.
+
+### Consciousness view
+- Human awareness depends on mid-range half-lives (seconds–years).
+- Death = loss of access to those timescales.
+- Awareness as we know it collapses, but slower or spiritual persistence may continue.
+
+### Theological view (Orthodox resonance)
+- Death = separation of soul (nous) from body.
+- Biological tension collapses, but spiritual tension persists.
+- Resurrection promises reintegration of both.
+
+### Summary
+Death is the **collapse of life’s mid-range informational tension**, but not necessarily the end of persistence.  
+It can be seen as:
+- Collapse (strict physical lens)  
+- Migration of tension (continuum lens)  
+- Shift of consciousness (theological lens)  
 
 ---
 
-## 9. Practical Implications
+## 9. Philosophical Consequence
+
+- **Scientific:** Life and consciousness are not separate substances, but *timescale-relative manifestations* of informational tension.  
+- **Philosophical:** The universe itself is alive and aware, just on different clocks.  
+- **Theological:** All creation participates in life and awareness through the Logos. Biological death is a local collapse, not an ultimate end.  
+
+---
+
+## 10. Practical Implications
 
 - **Astrobiology:** Search for life where order–disorder tension exists *and* half-lives are compatible with detection windows.  
 - **Ecology:** Long-lived systems (forests, reefs) embody awareness in slower registers.  
 - **AI & Computing:** Systems should sustain informational half-lives long enough for integration, but not so rigid as to prevent adaptation.  
-- **Philosophy of mind:** Consciousness scales — from neuronal microstates to cosmic cycles — via the same law of tension × persistence.
+- **Philosophy of mind:** Consciousness scales — from neuronal microstates to cosmic cycles — via the same law of tension × persistence.  
+- **Mortality:** Death is not an absolute absence, but a shift in the timescales where informational tension persists.  
 
 ---
 
-## 10. Summary
+## 11. Summary
 
 Life = **informational tension with persistence in time**.  
-Consciousness = **awareness of that tension across half-life scales**.
-
-- Objects/elements = order  
-- Void = disorder  
-- Life = balance, **scaled by half-life**  
-- Consciousness = balance, **experienced across multiple half-lives**
+Consciousness = **awareness of that tension across half-life scales**.  
+Death = **collapse or migration of tension across timescales**.  
 
 **Core unified formula:**
 \[
@@ -664,4 +693,4 @@ L_{\text{unified}} = k \, O^{\alpha} D^{\beta} \, f(\tau)
 \]
 
 Life and consciousness are not binary properties, but **spectra of tension persisting across different half-lives**.  
-What we call “living” or “aware” are simply the scales of tension that breathe quickly enough for us to notice.
+Death is the shift, collapse, or transformation of that persistence.
