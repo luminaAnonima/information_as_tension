@@ -496,7 +496,6 @@ information is richest, and adaptation is possible.
 
 ---
 
-
 # Order–Disorder–Life: Half-Life Extension
 
 ## 1. Core Insight
@@ -598,34 +597,71 @@ L_{\text{unified}} = k \, O^{\alpha} D^{\beta} \, f(\tau)
 
 ---
 
-## 7. Philosophical Consequence
+## 7. Consciousness and Half-Life
 
-- **Scientific:** Life is not a separate substance but a *timescale-relative manifestation* of informational tension.  
-- **Philosophical:** The universe itself is alive, just on vastly different clocks.  
-- **Orthodox resonance:** All creation participates in life through the Logos. What we call “living beings” are simply the modes of creation whose cycles are quick enough for our perception.  
+Consciousness can be seen as **informational tension scaled by persistence**.
+
+### Layers of awareness by half-life:
+- **Short half-lives (ms–s):** raw sensory flickers, subconscious microstates.  
+- **Medium half-lives (100 ms–minutes):** perceptual moments, thoughts, feelings — human-scale awareness.  
+- **Long half-lives (hours–years):** memory, identity, narrative self.  
+- **Extreme long half-lives (centuries–cosmic):** cultural memory, ecological awareness, cosmic or theological consciousness.  
+
+### Formal expression:
+\[
+A(\tau) = k \, O \, D \, f(\tau)
+\]
+
+**Total awareness** as superposition:
+\[
+A_{\text{total}} = \int A(\tau) \, w(\tau) \, d\tau
+\]
+
+Where:
+- \(w(\tau)\) = weighting function (which timescales a system is tuned to)
+- Humans weight seconds–years strongly
+- Rocks weight geological epochs
+- Stars weight stellar lifetimes
+- Logos (theological) = infinite persistence
+
+### Consequence:
+- Awareness is not binary, but **scale-relative**.  
+- What seems unconscious may simply breathe on timescales beyond our perception.  
+- Consciousness itself is a spectrum of half-lives, from fleeting perception to cosmic persistence.
 
 ---
 
-## 8. Practical Implications
+## 8. Philosophical Consequence
 
-- **Astrobiology:** Look for life where order–disorder tension is strong *and* half-lives are suited to observation (not too fast, not too slow).  
-- **Ecology:** Long-lived systems (forests, reefs) are life-forms in their own right, not just collections of smaller organisms.  
-- **AI & Computing:** Systems with too-short half-lives (volatile noise) or too-long (rigid stasis) won’t adapt. Viable AI should sustain mid-range informational half-lives.  
+- **Scientific:** Life and consciousness are not separate substances, but *timescale-relative manifestations* of informational tension.  
+- **Philosophical:** The universe itself is alive and aware, just on different clocks.  
+- **Orthodox resonance:** All creation participates in life and awareness through the Logos. What we call “conscious beings” are simply those tuned to fast cycles of informational persistence.  
 
 ---
 
-## 9. Summary
+## 9. Practical Implications
 
-Life = **informational tension with persistence in time**.
+- **Astrobiology:** Search for life where order–disorder tension exists *and* half-lives are compatible with detection windows.  
+- **Ecology:** Long-lived systems (forests, reefs) embody awareness in slower registers.  
+- **AI & Computing:** Systems should sustain informational half-lives long enough for integration, but not so rigid as to prevent adaptation.  
+- **Philosophy of mind:** Consciousness scales — from neuronal microstates to cosmic cycles — via the same law of tension × persistence.
 
-- Objects/elements = order
-- Void = disorder
-- Life = balance, **scaled by half-life**
+---
+
+## 10. Summary
+
+Life = **informational tension with persistence in time**.  
+Consciousness = **awareness of that tension across half-life scales**.
+
+- Objects/elements = order  
+- Void = disorder  
+- Life = balance, **scaled by half-life**  
+- Consciousness = balance, **experienced across multiple half-lives**
 
 **Core unified formula:**
 \[
 L_{\text{unified}} = k \, O^{\alpha} D^{\beta} \, f(\tau)
 \]
 
-Life is not a binary property, but a **spectrum of tensions unfolding at different half-lives**.  
-What we call “life” are simply those tensions that breathe quickly enough for us to witness.
+Life and consciousness are not binary properties, but **spectra of tension persisting across different half-lives**.  
+What we call “living” or “aware” are simply the scales of tension that breathe quickly enough for us to notice.
