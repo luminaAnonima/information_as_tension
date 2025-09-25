@@ -54,7 +54,24 @@ Entropy is therefore not chaos but **hidden order**: compressed logic that excee
 
 ---
 
-## 5. Thoughts as Tension
+## 5. Human Consciousness Near the Order Pole
+
+Because order is what makes sense to us, our consciousness is **biased toward the order side** of the spectrum.  
+
+- A perfectly ordered arrangement still feels intelligible.  
+- A small shuffle and we already lose track.  
+- Too much disorder quickly becomes “noise” that we cannot stabilize.  
+
+This means:  
+- Human thought occupies a **narrow band near the order pole**, where structure dominates but a touch of novelty keeps things alive.  
+- Creativity and altered states briefly widen this band, allowing glimpses of patterns further from order, though often unstable.  
+- From a theological view, this bias reflects our limitation: we live near order, while God perceives all scales as ordered.  
+
+Our fragility in the face of chaos is not because chaos is meaningless, but because our minds evolved close to order.  
+
+---
+
+## 6. Thoughts as Tension
 
 If information is the balance of order and disorder, then a **thought** is an **informational event stabilized in consciousness**.
 
@@ -66,7 +83,7 @@ A thought is not a “thing” but a **dynamic equilibrium**: a balance point be
 
 ---
 
-## 6. Consciousness as the Field
+## 7. Consciousness as the Field
 
 Where does this balance show up? In **consciousness**.  
 
@@ -76,7 +93,7 @@ Consciousness is the **field where patterns of thought become visible**.
 
 ---
 
-## 7. The First Formula (Accessible Version)
+## 8. The First Formula (Accessible Version)
 
 Let’s translate the intuition into math.  
 
@@ -98,7 +115,7 @@ This simple parabola shows why the middle zone is richest in information.
 
 ---
 
-## 8. Deepening the Model: Dual Handles
+## 9. Deepening the Model: Dual Handles
 
 Order and disorder are not the same thing, so let’s treat them separately.  
 
@@ -119,7 +136,7 @@ This makes the balance experimentally measurable.
 
 ---
 
-## 9. From Brain to Experiment
+## 10. From Brain to Experiment
 
 How could this be tested?  
 
@@ -133,7 +150,7 @@ Sliding-window analysis would track how \(C \cdot D\) rises and falls.
 
 ---
 
-## 10. The Temporal Dimension
+## 11. The Temporal Dimension
 
 Life and thought unfold in time. Information here means: *how much does the present help predict the future?*  
 
@@ -154,7 +171,7 @@ This matches the “edge of chaos” principle seen in complex systems.
 
 ---
 
-## 11. Half-Life Extension: Adding Time Scales
+## 12. Half-Life Extension: Adding Time Scales
 
 What if “life” is not a binary property, but a **matter of timescale**?  
 
@@ -179,7 +196,7 @@ Even what seems static — rocks, deserts, coastlines — participates in cycles
 
 ---
 
-## 12. Unified Formula
+## 13. Unified Formula
 
 We can combine balance and persistence:
 
@@ -197,7 +214,7 @@ L_{\text{unified}} = k \, O^{\alpha} D^{\beta} f(\tau)
 
 ---
 
-## 13. Consciousness and Half-Life
+## 14. Consciousness and Half-Life
 
 Awareness can also be seen as tension across time scales:  
 
@@ -213,7 +230,7 @@ Death, then, is not annihilation but **collapse or migration** of tension into s
 
 ---
 
-## 14. Death as Collapse or Migration
+## 15. Death as Collapse or Migration
 
 - **Biological view:** death occurs when mid-range tensions can no longer be sustained. \(L \to 0\).  
 - **Timescale view:** death is migration of tension into slower domains (molecules, atoms, ecosystems).  
@@ -222,7 +239,7 @@ Death, then, is not annihilation but **collapse or migration** of tension into s
 
 ---
 
-## 15. Philosophical and Theological Resonance
+## 16. Philosophical and Theological Resonance
 
 - **Scientific:** Information is not substance but balance. This gives measurable predictions for brain states, learning, and complex systems.  
 - **Philosophical:** Life and consciousness are not binaries, but spectra. Everything participates, only on different clocks.  
@@ -230,7 +247,7 @@ Death, then, is not annihilation but **collapse or migration** of tension into s
 
 ---
 
-## 16. Extensions & Open Questions
+## 17. Extensions & Open Questions
 
 ### 1. The Normalization Problem
 - How do we define \(S_{\max}\) for thought? Consciousness may not have a fixed maximum entropy.  
@@ -258,7 +275,7 @@ Death, then, is not annihilation but **collapse or migration** of tension into s
 
 ---
 
-## 17. Closing the Circle
+## 18. Closing the Circle
 
 We began with a simple question: *why does one card arrangement matter more than another?*  
 
@@ -274,5 +291,6 @@ That childlike observation unfolds into:
 **Consciousness is awareness of this tension across scales.**  
 **Disorder is order too fine for us to see.**  
 **Even rocks and stars breathe, just on longer clocks.**  
+**And we humans — creatures of conciseness — live close to the order pole.**  
 
 From cards to cosmos, the same law repeats.
