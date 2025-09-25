@@ -1,3 +1,7 @@
+_Information as Tension reframes information as the balance between order and disorder. Pure order is sterile, pure randomness meaningless, information lives in between. The essay explores thought as stabilized tension, consciousness as its field, and life as tension persisting across timescales, blending insights from complexity science, thermodynamics, neuroscience, and theology._
+
+---
+
 # Information as Tension: From Cards to Consciousness
 
 ---
