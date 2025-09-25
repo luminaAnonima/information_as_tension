@@ -75,8 +75,8 @@ Our fragility in the face of chaos is not because chaos is meaningless, but beca
 
 If information is the balance of order and disorder, then a **thought** is an **informational event stabilized in consciousness**.
 
-- Too much order ? rigid, repetitive thinking (obsession, dogma).  
-- Too much disorder ? incoherent thinking (psychosis, dream static).  
+- Too much order → rigid, repetitive thinking (obsession, dogma).  
+- Too much disorder → incoherent thinking (psychosis, dream static).  
 - Thought emerges when the brain balances both: structured enough to mean something, flexible enough to stay alive.  
 
 A thought is not a “thing” but a **dynamic equilibrium**: a balance point between chaos and structure.  
@@ -114,19 +114,19 @@ Consciousness is the **field where patterns of thought become visible**.
 
 Let’s translate the intuition into math.  
 
-- Let \(S\) = entropy (measure of disorder).  
-- Let \(S_{\max}\) = maximum possible entropy.  
-- Normalize: \(x = S / S_{\max} \in [0,1]\).  
+- Let $S$ = entropy (measure of disorder).  
+- Let $S_{\max}$ = maximum possible entropy.  
+- Normalize: $x = S / S_{\max} \in [0,1]$.  
 
 Define **informational tension**:
 
-\[
+$$
 I(S) = k \cdot x \cdot (1 - x)
-\]
+$$
 
-- At pure order (\(x=0\)), \(I=0\).  
-- At pure disorder (\(x=1\)), \(I=0\).  
-- The curve peaks at \(x=0.5\): the balance point.  
+- At pure order ($x=0$), $I=0$.  
+- At pure disorder ($x=1$), $I=0$.  
+- The curve peaks at $x=0.5$: the balance point.  
 
 This simple parabola shows why the middle zone is richest in information.  
 
@@ -141,13 +141,13 @@ Order and disorder are not the same thing, so let’s treat them separately.
 
 Then:
 
-\[
+$$
 I_{\text{thought}} = k \cdot C \cdot D
-\]
+$$
 
-- Rigid states (C high, D low) ? little thought.  
-- Chaotic states (D high, C low) ? little thought.  
-- Both together ? maximum thought.  
+- Rigid states (C high, D low) → little thought.  
+- Chaotic states (D high, C low) → little thought.  
+- Both together → maximum thought.  
 
 This makes the balance experimentally measurable.  
 
@@ -161,9 +161,9 @@ How could this be tested?
 - **Order proxy (C):** phase-locking, connectivity efficiency, integration measures.  
 - **Disorder proxy (D):** spectral entropy, Lempel-Ziv complexity, multiscale entropy.  
 
-Sliding-window analysis would track how \(C \cdot D\) rises and falls.  
+Sliding-window analysis would track how $C \cdot D$ rises and falls.  
 
-**Prediction:** during an “aha” moment, \(I_{\text{thought}}\) should spike 0.5–2 seconds before the insight is reported.  
+**Prediction:** during an “aha” moment, $I_{\text{thought}}$ should spike 0.5–2 seconds before the insight is reported.  
 
 ---
 
@@ -171,17 +171,17 @@ Sliding-window analysis would track how \(C \cdot D\) rises and falls.
 
 Life and thought unfold in time. Information here means: *how much does the present help predict the future?*  
 
-Let entropy rate = \(h_\mu\), with maximum \(h_{\max}\).  
-Normalize: \(x = h_\mu / h_{\max}\).  
+Let entropy rate = $h_\mu$, with maximum $h_{\max}$.  
+Normalize: $x = h_\mu / h_{\max}$.  
 
 Define:
 
-\[
+$$
 I_{\text{temp}} = k \cdot x (1-x)
-\]
+$$
 
-- Too rigid (\(x \to 0\)): nothing new.  
-- Too chaotic (\(x \to 1\)): no prediction possible.  
+- Too rigid ($x \to 0$): nothing new.  
+- Too chaotic ($x \to 1$): no prediction possible.  
 - Middle zone: maximum learning.  
 
 This matches the “edge of chaos” principle seen in complex systems.  
@@ -217,15 +217,15 @@ Even what seems static - rocks, deserts, coastlines - participates in cycles:
 
 We can combine balance and persistence:
 
-\[
+$$
 L_{\text{unified}} = k \, O^{\alpha} D^{\beta} f(\tau)
-\]
+$$
 
-- \(O\): order  
-- \(D\): disorder  
-- \(\alpha,\beta\): weights (some systems need more stability, others more variability)  
-- \(\tau\): half-life (persistence of tension)  
-- \(f(\tau)\): scaling function to capture persistence over time  
+- $O$: order  
+- $D$: disorder  
+- $\alpha,\beta$: weights (some systems need more stability, others more variability)  
+- $\tau$: half-life (persistence of tension)  
+- $f(\tau)$: scaling function to capture persistence over time  
 
 **Meaning:** life = order × disorder × persistence.  
 
@@ -249,7 +249,7 @@ Death, then, is not annihilation but **collapse or migration** of tension into s
 
 ## 16. Death as Collapse or Migration
 
-- **Biological view:** death occurs when mid-range tensions can no longer be sustained. \(L \to 0\).  
+- **Biological view:** death occurs when mid-range tensions can no longer be sustained. $L \to 0$.  
 - **Timescale view:** death is migration of tension into slower domains (molecules, atoms, ecosystems).  
 - **Consciousness view:** awareness tuned to seconds–years collapses; other forms may persist at different scales.  
 - **Theological view (Orthodox):** death is separation of body and soul; biological tension collapses, spiritual tension persists.  
@@ -267,28 +267,28 @@ Death, then, is not annihilation but **collapse or migration** of tension into s
 ## 18. Extensions & Open Questions
 
 ### 1. The Normalization Problem
-- How do we define \(S_{\max}\) for thought? Consciousness may not have a fixed maximum entropy.  
-- Possible approaches: empirical normalization, relative scaling with negentropy, or treating \(S_{\max}\) as a moving horizon that grows with learning.
+- How do we define $S_{\max}$ for thought? Consciousness may not have a fixed maximum entropy.  
+- Possible approaches: empirical normalization, relative scaling with negentropy, or treating $S_{\max}$ as a moving horizon that grows with learning.
 
 ### 2. Non-Equilibrium Dynamics
 - Current formulas are static. Real life is flow.  
 - Extension:  
-  \[
+  $$
   I_{\text{flow}} = k \cdot C \cdot D \cdot \frac{dE}{dt}
-  \]  
-  where \(dE/dt\) is energy dissipation. This ties tension to thermodynamics.
+  $$  
+  where $dE/dt$ is energy dissipation. This ties tension to thermodynamics.
 
 ### 3. Hierarchical Nesting
 - Consciousness is layered: neurons, assemblies, networks, whole brain.  
 - Extension:  
-  \[
+  $$
   I_{\text{multi}} = \sum_{s} w_s \, C_s D_s + \sum_{s \neq t} \gamma_{st} \, C_s D_t
-  \]  
+  $$  
   capturing both within-scale and cross-scale tensions.
 
 ### 4. The Binding Problem
 - How do scattered processes cohere into unified experience?  
-- Hypothesis: binding occurs when multi-scale \(C \cdot D\) peaks, aligning local tensions into a global maximum.  
+- Hypothesis: binding occurs when multi-scale $C \cdot D$ peaks, aligning local tensions into a global maximum.  
 
 ---
 
