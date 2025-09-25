@@ -177,7 +177,7 @@ Normalize: $x = h_\mu / h_{\max}$.
 Define:
 
 $$
-I_{\text{temp}} = k \cdot x (1-x)
+I_{\text{temp}} = k \cdot x \cdot (1-x)
 $$
 
 - Too rigid ($x \to 0$): nothing new.  
